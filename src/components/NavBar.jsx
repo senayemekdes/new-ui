@@ -116,7 +116,7 @@ const toggleMenu = () => {
         {/* hero container */}
         <div className="container flex flex-col-reverse mx-auto p-6 lg:flex-row">
           {/* content container */}
-          <div className="flex flex-col space-y-10 mb-44 lg:mt-16 lg:w-1/2 xl:mb-52">
+          <div className="flex flex-col space-y-10 mb-44 lg:mt-16 lg:w-1/2 xl:mb-52 lg:p-20">
             <h1 className="text-5xl font-bold text-center lg:text-6xl lg:max-w-md lg:text-left">
               More than just shorter links
             </h1>
