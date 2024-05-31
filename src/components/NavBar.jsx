@@ -280,7 +280,7 @@ const toggleMenu = () => {
             Get Started
           </button>
           {/* footer section */}
-          <footer className='py-16 bg-veryDarkViolet'>
+          <footer className='py-16 bg-veryDarkViolet mt-50 rounded-xl'>
             <div className="container flex flex-col items-center justify-between mx-auto space-y-6 md:flex-row 
             md:space-y-0 md:items-start">
               {/* Logo */}
@@ -322,7 +322,7 @@ const toggleMenu = () => {
             </div>
 
             {/* social link  */}
-            <div className="flex space-x-6 ">
+            <div className="flex space-x-6 p-6 ">
               <a href="#">  
               <img src={fb} alt="" className='ficon h-10 w-10' />
               </a>
